@@ -3,4 +3,4 @@
 lista = ['palavra', 'palavrinha', 'palavrao', 'palavrona' ]
 
 string = ', '.join(lista)
-print(string)
+print(string) 
